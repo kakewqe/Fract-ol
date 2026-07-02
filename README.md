@@ -47,7 +47,7 @@ make
 ---
 
 ## 🇫🇷 Français
-Français :
+
 Projet terminé le 1er avril 2024 à 17:08 CEST (UTC+02:00).
 
 Le but de ce projet est d'explorer les fractales mathématiques et la programmation graphique.
