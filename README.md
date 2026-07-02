@@ -1,5 +1,5 @@
 # 📄 Fract-ol
-
+Project completed on April 1, 2024, at 5:08 PM CEST (UTC+02:00).
 ## 🇬🇧 English
 
 The goal of this project is to explore mathematical fractals and graphical programming.
@@ -47,7 +47,8 @@ make
 ---
 
 ## 🇫🇷 Français
-
+Français :
+Projet terminé le 1er avril 2024 à 17:08 CEST (UTC+02:00).
 Le but de ce projet est d'explorer les fractales mathématiques et la programmation graphique.
 
 ### Description
